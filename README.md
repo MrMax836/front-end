@@ -1,1 +1,1 @@
-# front-end
+This repository for front-end courses
